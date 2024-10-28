@@ -126,5 +126,5 @@ pip install pynput
 This project demonstrates a simple way to capture and log keystrokes using Python. Always use this code responsibly, respecting privacy and legal guidelines.
 
 Happy coding! 😊
-```
+
 
